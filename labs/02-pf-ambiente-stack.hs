@@ -1,4 +1,4 @@
-module LabAmbiente where
+module Main where
 
 --Tarefa 1: Implemente uma funcao que determine se uma lista eh
 --          um palindromo: possui os mesmos elementos quando
