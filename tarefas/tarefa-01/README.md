@@ -18,3 +18,7 @@ Edite este arquivo e coloque o seu nome e matrícula na seção anterior.
 A sua solução pode contar quantos arquivos quanto achar necessários, desde que eles sejam invocados no arquivo `tarefa-01.hs`.
 
 A descrição da tarefa está em [tarefa-01.funcoes.basicas.md](tarefa-01.funcoes.basicas.md).
+
+## Importante
+
+Se você está acessando esse arquivo no repositório <https://github.com/rcarocha/pfl/>, então você está usando o repositório errado. Deve haver um repositório privado atribuído a você, após você aceitar a tarefa no Github Classroom.
