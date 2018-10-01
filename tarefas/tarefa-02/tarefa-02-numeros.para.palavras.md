@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<title>Programação Funcional e Lógica - Prof. Ricardo da Rocha</title>
-
-<xmp theme="simplex" style="display:none;">
-
-
 # Tarefa 2 de Programação Funcional e Lógica
 
 # Visão geral
@@ -14,7 +7,7 @@ Nesta tarefa você deverá implementar algumas funções para exercitar o uso de rec
 
 # Descrição
 
-1. Resolva as [tarefas de 7 a 10](labs/03-pf-tarefas-listas.hs), deixadas para o laboratório
+1. Resolva as [tarefas de 7 a 10](http://inf.ufg.br/~ricardo/pfl/labs/03-pf-tarefas-listas.hs), deixadas para o laboratório
 2. Implemente uma função `numeralParaExtenso n` (`n :: Integer`) que recebe um inteiro positivo e retorna o número por extenso em uma `String`, até número limite de `9.999.999.999` (última da casa dos bilhões). Por exemplo:
 
    * `numeralParaExtenso 0 => zero`
@@ -41,9 +34,3 @@ Os seguintes requisitos devem ser satisfeitos para o seu código ter o conceito *
 # Prazo
 
 O prazo **sugerido** para entrega da atividade é o dia 8/outubro. Você pode exceder esse prazo, mas nesse dia outra tarefa será lançada.
-
-</xmp>
-
-<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
-</html>
-
